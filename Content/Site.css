@@ -1,0 +1,295 @@
+﻿a {
+    text-decoration:none !important;
+}
+.pad15{
+    padding:15px;
+}
+.side-nav {
+    background-color: #00bcd4 !important;
+    color: white !important;
+}
+
+.container-blog {
+    width: 100% !important;
+}
+.container-skill {
+    width: 90% !important;
+}
+/* --------------------------------- */
+/* 5. About Me Section Styles
+ ----------------------------------- */
+.person-info span {
+    font-weight: bold;
+}
+
+.collapsible-body {
+    background-color: #ace2ec !important;
+}
+.bgm-blue {
+    background-color: #ace2ec !important;
+}
+.collapsible-header {
+    color: #00bcd4 !important;
+}
+.about-inner {
+    margin: 60px 0;
+}
+.person-about .title {
+    margin-bottom: 15px;
+}
+
+.about-subtitle {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.person-about .subtitle {
+    font-weight: 100;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.person-img img {
+    border: 8px solid #fff;
+}
+
+.person-about p {
+    color: #727272;
+    font-size: 14px;
+    line-height: 28px;
+    margin-bottom: 35px;
+}
+
+.person-info h5 {
+    border-bottom: 1px solid #eeeeee;
+    color: #727272;
+    font-size: 14px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+}
+
+    .person-info h5 span {
+        display: inline-block;
+        min-width: 70px;
+    }
+hlt {
+    color: #00bcd4 !important;
+    font-weight: bold;
+}
+.person-about > a.btn-large {
+    background-color: #fff;
+}
+
+.person-about > a.btn-large {
+    font-size: 14px;
+}
+
+.person-about > a.btn-large,
+.home-content > a.btn-large {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+    .person-about > a.btn-large i {
+        font-size: 26px;
+        margin-right: 8px;
+    }
+
+.about-social {
+    margin: 25px 0 0;
+}
+
+    .about-social ul li {
+        display: inline-block;
+        margin-right: 8px;
+    }
+
+        .about-social ul li a i {
+            font-size: 14px;
+        }
+
+
+
+
+.brand-text {
+    color: #00bcd4 !important;
+}
+
+    .brand-text i {
+        color: #00bcd4 !important;
+    }
+
+.brand-bg,
+.sweet-alert button {
+    background-color: #00bcd4 !important;
+}
+
+.waves-effect.waves-brand {
+    background-color: rgba(0, 188, 212, 0.66);
+}
+
+.p-overlay {
+    background-color: rgba(0, 188, 212, 0.9);
+}
+
+
+.circle-loader .path {
+    stroke: #00bcd4;
+}
+
+
+.side-nav li.current a,
+.side-nav li a:hover {
+    border-bottom-color: #00bcd4;
+}
+
+.static-menu li i:hover,
+.static-menu li a:hover,
+.submenu-ul li a:hover,
+.home-title span,
+.about-subtitle,
+.person-about > a.btn-large,
+.about-social ul li a i,
+.skill-title,
+.skill-count,
+.single-widget ul li a,
+.single-post-content a,
+.share-post li a:hover,
+.com-title a,
+span.num {
+    color: #00bcd4;
+}
+
+.singel-hr-inner,
+.hr-wrap,
+.hrc:after,
+.thumb-slides-container.owl-theme .owl-controls .owl-page.active span,
+.blog-inner .card-content a.right:hover,
+.blog-inner .card-content a.right:focus,
+.contact-form .submit-btn:hover,
+.contact-form .submit-btn:focus,
+a.tags,
+.blog-inner .card-content a.right:active {
+    background-color: #00bcd4;
+}
+
+.contact-form .materialize-textarea:focus,
+.contact-form .input-box:focus {
+    border-color: #00bcd4;
+    box-shadow: 0px 1px 0px #00bcd4;
+}
+
+
+.single-post-content blockquote {
+    border-left: 5px solid #00bcd4;
+}
+
+
+
+@-webkit-keyframes color {
+    0% {
+        stroke: #00bcd4;
+    }
+
+    20% {
+        stroke: #00bcd4;
+    }
+
+    25% {
+        stroke: #00bcd4;
+    }
+
+    45% {
+        stroke: #00bcd4;
+    }
+
+    50% {
+        stroke: #00bcd4;
+    }
+
+    70% {
+        stroke: #00bcd4;
+    }
+
+    75% {
+        stroke: #00bcd4;
+    }
+
+    95% {
+        stroke: #00bcd4;
+    }
+}
+
+@keyframes color {
+    0% {
+        stroke: #00bcd4;
+    }
+
+    20% {
+        stroke: #00bcd4;
+    }
+
+    25% {
+        stroke: #00bcd4;
+    }
+
+    45% {
+        stroke: #00bcd4;
+    }
+
+    50% {
+        stroke: #00bcd4;
+    }
+
+    70% {
+        stroke: #00bcd4;
+    }
+
+    75% {
+        stroke: #00bcd4;
+    }
+
+    95% {
+        stroke: #00bcd4;
+    }
+}
+nav {
+    background-color: #00bcd4 !important;
+}
+
+/* Add your CSS below */
+
+
+
+
+.menu-select [type="radio"]:checked + label:after {
+    border-color: #00bcd4;
+    background-color: #00bcd4;
+}
+
+
+.person-img {
+    width: 360px;
+    height: 360px;
+}
+@media only screen and (min-width: 0) {
+    .person-img {
+        width: 315px;
+        height: 315px;
+        margin-top:10px;
+    }
+    .card .card-title{
+        font-size:18px !important;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .person-img {
+        width: 360px;
+        height: 360px;
+    }
+    .card .card-title {
+        font-size: 24px !important; 
+    }
+}
